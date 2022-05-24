@@ -1,7 +1,9 @@
 # current weather information in python using API
 
 
-##How to get API KEY in https://openweathermap.org?
+How to get API KEY in https://openweathermap.org?
+
+
 The API key is all you need to call any of our weather APIs. 
 Once you sign up using your email, the API key (APPID) will be sent to you in a confirmation email. 
 Your API keys can always be found on your account page, where you can also generate additional API keys if needed. 
